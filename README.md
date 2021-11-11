@@ -8,9 +8,9 @@ You can create a Slice Library with the following steps:
 
 When you are ready to share the library with others, submit it the Slice Library Showcase.
 
-[**Submit your Slice Library to the Showcase**](#)
+[**Submit your Slice Library to the Showcase**][submit-showcase]
 
-## Getting Started
+## Getting started
 
 Start a new Slice Library project using this starter.
 
@@ -33,17 +33,30 @@ After starting Slice Machine, open [http://localhost:9999](http://localhost:9999
 
 You can begin creating Slices for your Slice Library. The process of making a Slice in a Slice Library is the same as making one for a full website.
 
-## Learn More
+## Sharing your Slice Library
 
-To learn more about Next.js, take a look at the following resources:
+Share your Slice Library with others by pushing it to GitHub in a public repository.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Users can then install your Slices into their project with the following command:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+npx @slicemachine/init@latest --lib your-username/your-library-name
+```
 
-## Deploy on Vercel
+To help users install your Slices, write a README with installation instructions. If your library requires special setup, such as installing a specific library or configuring a file, make sure to include those steps.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+An example README is included at `./README-example.md` that can be used as a starting point for your own README.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Submit it to the Slice Library Showcase
+
+Want to get more eyes on your Slice Library? Submit it to be listed in the Slice Library Showcase!
+
+Preparing your Slice Library to be in the Showcase requires the following:
+
+1. Deploy your Next.js app to a public URL. We recommend deploying to [Vercel](https://vercel.com/).
+2. Update the `sliceCanvasURL` entry in `slicelibrary.json` with the deployed URL. Remember to push this update to GitHub!
+3. Be sure to include sufficient installation instructions in your library's README.
+
+That's it! When you're ready, just submit your GitHub URL to the Showcase here: [**Submit your Slice Library to the Showcase**][submit-showcase]
+
+[submit-showcase]: #
