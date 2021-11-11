@@ -8,7 +8,7 @@ You can create a Slice Library with the following steps:
 
 When you are ready to share the library with others, submit it the Slice Library Showcase.
 
-[**📮 Submit your Slice Library to the Showcase**][submit-showcase]
+<span style="font-size: 1.25em">[**Submit your Slice Library to the Showcase**][submit-showcase]</span>
 
 ## 👉 Getting started
 
@@ -49,7 +49,7 @@ An example README is included at `./README-example.md` that can be used as a sta
 
 ## 📮 Submit it to the Slice Library Showcase
 
-Want to get more eyes 👀 on your Slice Library? Submit it to be listed in the Slice Library Showcase!
+Want to get more eyes 👀 on your Slice Library? Submit it to be listed in the [Slice Library Showcase][showcase]!
 
 Preparing your Slice Library to be in the Showcase requires the following:
 
@@ -59,6 +59,7 @@ Preparing your Slice Library to be in the Showcase requires the following:
 
 That's it! When you're ready, just submit your GitHub URL to the Showcase here.
 
-### [**Submit your Slice Library to the Showcase**][submit-showcase]
+<span style="font-size: 1.25em">[**Submit your Slice Library to the Showcase**][submit-showcase]</span>
 
 [submit-showcase]: #
+[showcase]: #
