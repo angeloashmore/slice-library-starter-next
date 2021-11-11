@@ -1,6 +1,6 @@
-# <a href="https://www.slicemachine.dev/"><img src=".github/slicemachine-logo.svg" alt="Slice Machine from Prismic" width="64" /></a><br/>slice-library-starter-next
+# slice-library-starter-next
 
-The quickest way to build a Slice Library for [Slice Machine](https://www.slicemachine.dev/) websites using [Next.js](https://nextjs.org/).
+The quickest way to build a Slice Library for <a href="https://www.slicemachine.dev/"><img src=".github/slicemachine-logo.svg" alt="Slice Machine from Prismic" width="16" /></a> [Slice Machine](https://www.slicemachine.dev/) websites using [Next.js](https://nextjs.org/).
 
 > 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
 > The easiest way to show off your Slice Library.
