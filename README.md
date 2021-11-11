@@ -14,12 +14,13 @@ Start a new Slice Library project using this starter with the following commands
 
 1. **Clone the starter**
 
-   Replace your-library-name with your Slice Library's name (example: `slice-library-tailwind-ui`).
+   Replace `your-library-name` with your Slice Library's name (example: `slice-library-tailwind-ui`).
 
    ```bash
    npx degit@latest \
      prismicio-community/slice-library-starter-next \
      your-library-name
+   git init
    ```
 
 1. **Install dependencies**
