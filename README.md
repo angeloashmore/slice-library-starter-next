@@ -12,22 +12,26 @@ The quickest way to build a Slice Library for [Slice Machine](https://www.slicem
 
 Start a new Slice Library project using this starter with the following commands:
 
-```bash
-# Replace your-library-name with your Slice Library's name
-#   (example: "slice-library-tailwind-ui")
-npx degit@latest \
-  prismicio-community/slice-library-starter-next \
-  your-library-name
+1. Clone the starter. Replace your-library-name with your Slice Library's name (example: `slice-library-tailwind-ui`).
 
-# Navigate into your Slice Library project
-cd your-library-name
+   ```bash
+   npx degit@latest \
+     prismicio-community/slice-library-starter-next \
+     your-library-name
+   ```
 
-# Install the project's dependencies
-npm install
+1. Navigate into your Slice Library and install its dependencies.
 
-# Start Slice Machine and the Next.js dev server
-npm run dev
-```
+   ```bash
+   cd your-library-name
+   npm install
+   ```
+
+1. Start Slice Machine and the Next.js dev server.
+
+   ```bash
+   npm run dev
+   ```
 
 After starting Slice Machine, open [http://localhost:9999](http://localhost:9999) with your browser to view Slice Machine.
 
