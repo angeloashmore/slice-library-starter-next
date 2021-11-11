@@ -1,12 +1,10 @@
-<img src=".github/slicemachine-badge.svg" alt="Slice Machine from Prismic" width="160" />
+# <img src=".github/slicemachine-logo.svg" alt="Slice Machine from Prismic" width="64" /><br/>slice-library-starter-next
 
-# slice-library-starter-next
-
-The quickest way to build a Slice Library for Slice Machine websites.
+The quickest way to build a Slice Library for [Slice Machine](https://www.slicemachine.dev/) websites with [Next.js](https://nextjs.org/).
 
 ## 👉 Getting started
 
-Start a new Slice Library project using this starter.
+Start a new Slice Library project using this starter with the following commands:
 
 ```bash
 # Replace your-library-name with your Slice Library's name
@@ -43,7 +41,7 @@ An example README is included at `./README-example.md` that can be used as a sta
 
 ## 📮 Submit it to the Slice Library Showcase
 
-Want to get more 👀eyes👀 on your Slice Library? Submit it to be listed in the [Slice Library Showcase][showcase]!
+Want to get more 👀 on your Slice Library? Submit it to be listed in the [Slice Library Showcase][showcase]!
 
 1. **Deploy your app**<br/>Deploy your Next.js app to a public URL. We recommend deploying to [Vercel](https://vercel.com/).
 
