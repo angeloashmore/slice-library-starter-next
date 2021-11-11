@@ -1,24 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 This is a [Prismic](https://prismic.io) Slice Library for [Next.js](https://nextjs.org/).
+
+You can create a Slice Library with the following steps:
+
+1. Use Slice Machine to model your Slices and create their React components.
+2. Push the project to GitHub.
+3. Deploy the Next.js app and update the `sliceCanvasURL` entry in `slicelibrary.json`.
+
+When you are ready to share the library with others, submit it the Slice Library Showcase.
+
+[**Submit your Slice Library to the Showcase**](#)
 
 ## Getting Started
 
-First, run the development server:
+Start a new Slice Library project using this starter.
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Replace your-library-name with your Slice Library's name
+# e.g. "slice-library-tailwind-ui"
+npx degit@latest prismicio-community/slice-library-starter-next your-library-name
+
+# Navigate into your Slice Library project
+cd your-library-name
+
+# Install the project's dependencies
+npm install
+
+# Start Slice Machine and the Next.js dev server
+npm run slicemachine
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+After starting Slice Machine, open [http://localhost:9999](http://localhost:9999) with your browser to view Slice Machine.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+You can begin creating Slices for your Slice Library. The process of making a Slice in a Slice Library is the same as making one for a full website.
 
 ## Learn More
 
