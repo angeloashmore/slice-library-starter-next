@@ -31,6 +31,12 @@ Start a new Slice Library project using this starter with the following commands
    npm install
    ```
 
+1. **Give your library a name**
+
+   Open `slicelibrary.json` and update `name` with your Slice Library's name.
+
+   You can leave the other fields alone.
+
 1. **Start developing**
 
    Start Slice Machine and the Next.js dev server.
