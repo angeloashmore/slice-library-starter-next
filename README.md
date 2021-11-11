@@ -1,6 +1,6 @@
 # <a href="https://www.slicemachine.dev/"><img src=".github/slicemachine-logo.svg" alt="Slice Machine from Prismic" width="64" /></a><br/>slice-library-starter-next
 
-The quickest way to build a Slice Library for [Slice Machine](https://www.slicemachine.dev/) websites with [Next.js](https://nextjs.org/).
+The quickest way to build a Slice Library for [Slice Machine](https://www.slicemachine.dev/) websites using [Next.js](https://nextjs.org/).
 
 > 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
 > The easiest way to show off your Slice Library.
@@ -12,7 +12,9 @@ Start a new Slice Library project using this starter with the following commands
 ```bash
 # Replace your-library-name with your Slice Library's name
 #   (example: "slice-library-tailwind-ui")
-npx degit@latest prismicio-community/slice-library-starter-next your-library-name
+npx degit@latest \
+  prismicio-community/slice-library-starter-next \
+  your-library-name
 
 # Navigate into your Slice Library project
 cd your-library-name
@@ -35,7 +37,8 @@ You can share your Slice Library with others by pushing it to GitHub in a public
 Users can then install your Slices into their existing or new project with the following command:
 
 ```bash
-npx @slicemachine/init@latest --lib your-username/your-library-name
+npx @slicemachine/init@latest \
+  --lib your-username/your-library-name
 ```
 
 To help users install your Slices, be sure to write a README with installation instructions. If your library requires special setup, such as installing a specific library or configuring a file, include those steps.
