@@ -2,7 +2,7 @@
 
 The quickest way to build a Slice Library for [Slice Machine](https://www.slicemachine.dev/) websites using [Next.js](https://nextjs.org/).
 
-> 💭 **What is a Slice Library?**<br/>
+> 💭 [**What is a Slice Library?**][what-is-a-slice-library]<br/>
 > A Slice Library is a sharable collection of reusable website sections. They can be used in sites built with [Prismic][prismic].
 
 > 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
@@ -64,6 +64,7 @@ That's it! When you're ready, just submit your GitHub URL to the Showcase.
 > The easiest way to show off your Slice Library.
 
 [prismic]: https://prismic.io/
+[what-is-a-slice-library]: #
 [slicemachine]: https://www.slicemachine.dev/
 [submit-showcase]: #
 [showcase]: #
