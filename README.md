@@ -1,3 +1,5 @@
+# <img src=".github/slicemachine-logo.svg" alt="Slice Machine logo" width="64"> slice-library-starter-next
+
 This is a [Prismic](https://prismic.io) Slice Library for [Next.js](https://nextjs.org/).
 
 You can create a Slice Library with the following steps:
@@ -8,8 +10,8 @@ You can create a Slice Library with the following steps:
 
 When you are ready to share the library with others, submit it the Slice Library Showcase.
 
-> 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]
-> The easiest way to show off your Slice Library
+> 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
+> The easiest way to show off your Slice Library.
 
 ## 👉 Getting started
 
@@ -50,20 +52,18 @@ An example README is included at `./README-example.md` that can be used as a sta
 
 ## 📮 Submit it to the Slice Library Showcase
 
-Want to get more eyes 👀 on your Slice Library? Submit it to be listed in the [Slice Library Showcase][showcase]!
-
-Preparing your Slice Library to be in the Showcase requires the following:
+Want to get more 👀eyes👀 on your Slice Library? Submit it to be listed in the [Slice Library Showcase][showcase]!
 
 1. **Deploy your app**<br/>Deploy your Next.js app to a public URL. We recommend deploying to [Vercel](https://vercel.com/).
 
-2. **Update the Slice Canvas URL**<br/>Update the `sliceCanvasURL` entry in `slicelibrary.json` with the deployed URL. Remember to push this update to GitHub!
+2. **Update the Slice Canvas URL**<br/>Update the `sliceCanvasURL` entry in `slicelibrary.json` with the deployed URL.<br/>Remember to push this update to GitHub!
 
 3. **Provide installation instructions**<br/>Be sure to include sufficient installation instructions in your library's README.
 
-That's it! When you're ready, just submit your GitHub URL to the Showcase here.
+That's it! When you're ready, just submit your GitHub URL to the Showcase.
 
-> 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]
-> The easiest way to show off your Slice Library
+> 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
+> The easiest way to show off your Slice Library.
 
 [submit-showcase]: #
 [showcase]: #
