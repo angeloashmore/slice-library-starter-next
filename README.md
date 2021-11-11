@@ -2,7 +2,7 @@
 
 The quickest way to build a Slice Library for [Slice Machine](https://www.slicemachine.dev/) websites using [Next.js](https://nextjs.org/).
 
-> **What is a Slice Library?**<br/>
+> ❓ **What is a Slice Library?**<br/>
 > A Slice Library is a sharable collection of reusable website sections.<br/>
 > They can be used in sites built with [Prismic][prismic].
 
