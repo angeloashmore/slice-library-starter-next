@@ -1,0 +1,5 @@
+{
+  "name": "Slice Library Starter",
+  "libraryPath": "@/slices",
+  "sliceCanvasURL": "https://slice-library-starter.vercel.app/slice-canvas/"
+}
