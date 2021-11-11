@@ -2,6 +2,9 @@
 
 The quickest way to build a Slice Library for [Slice Machine](https://www.slicemachine.dev/) websites with [Next.js](https://nextjs.org/).
 
+> 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
+> The easiest way to show off your Slice Library.
+
 ## 👉 Getting started
 
 Start a new Slice Library project using this starter with the following commands:
