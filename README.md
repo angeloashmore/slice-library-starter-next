@@ -5,7 +5,7 @@ The quickest way to build a Slice Library for [Slice Machine](https://www.slicem
 > 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
 > The easiest way to show off your Slice Library.
 
-## 👉 Getting started
+## 👉&nbsp; Getting started
 
 Start a new Slice Library project using this starter with the following commands:
 
