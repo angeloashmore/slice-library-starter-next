@@ -8,11 +8,13 @@ The quickest way to build a Slice Library for [Slice Machine](https://www.slicem
 > 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
 > The easiest way to show off your Slice Library.
 
-## 👉&nbsp; Getting started
+## Getting started
 
 Start a new Slice Library project using this starter with the following commands:
 
-1. Clone the starter. Replace your-library-name with your Slice Library's name (example: `slice-library-tailwind-ui`).
+1. **Clone the starter**
+
+   Replace your-library-name with your Slice Library's name (example: `slice-library-tailwind-ui`).
 
    ```bash
    npx degit@latest \
@@ -20,24 +22,28 @@ Start a new Slice Library project using this starter with the following commands
      your-library-name
    ```
 
-1. Navigate into your Slice Library and install its dependencies.
+1. **Install dependencies**
+
+   Navigate into your Slice Library and install its dependencies.
 
    ```bash
    cd your-library-name
    npm install
    ```
 
-1. Start Slice Machine and the Next.js dev server.
+1. **Start developing**
+
+   Start Slice Machine and the Next.js dev server.
 
    ```bash
    npm run dev
    ```
 
-After starting Slice Machine, open [http://localhost:9999](http://localhost:9999) with your browser to view Slice Machine.
+   After starting Slice Machine, open [http://localhost:9999](http://localhost:9999) with your browser to view Slice Machine.
 
 Now you can begin creating Slices for your Slice Library. The process of making a Slice in a Slice Library is the same as making one for a full website.
 
-## 🎁&nbsp; Sharing your Slice Library
+## Sharing your Slice Library
 
 You can share your Slice Library with others by pushing it to GitHub in a public repository.
 
@@ -52,7 +58,7 @@ To help users install your Slices, be sure to write a README with installation i
 
 An example README is included at `./README-example.md` that can be used as a starting point for your own README.
 
-## 📮&nbsp; Submit it to the Slice Library Showcase
+## Submit it to the Slice Library Showcase
 
 Want to get more 👀 on your Slice Library? Submit it to be listed in the [Slice Library Showcase][showcase]!
 
