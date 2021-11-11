@@ -28,7 +28,7 @@ After starting Slice Machine, open [http://localhost:9999](http://localhost:9999
 
 Now you can begin creating Slices for your Slice Library. The process of making a Slice in a Slice Library is the same as making one for a full website.
 
-## 🎁 Sharing your Slice Library
+## 🎁&nbsp; Sharing your Slice Library
 
 You can share your Slice Library with others by pushing it to GitHub in a public repository.
 
@@ -42,7 +42,7 @@ To help users install your Slices, be sure to write a README with installation i
 
 An example README is included at `./README-example.md` that can be used as a starting point for your own README.
 
-## 📮 Submit it to the Slice Library Showcase
+## 📮&nbsp; Submit it to the Slice Library Showcase
 
 Want to get more 👀 on your Slice Library? Submit it to be listed in the [Slice Library Showcase][showcase]!
 
