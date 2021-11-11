@@ -1,17 +1,8 @@
-# <img src=".github/slicemachine-logo.svg" alt="Slice Machine logo" width="64"> slice-library-starter-next
+<img src=".github/slicemachine-badge.svg" alt="Slice Machine from Prismic" width="160" />
 
-This is a [Prismic](https://prismic.io) Slice Library for [Next.js](https://nextjs.org/).
+# slice-library-starter-next
 
-You can create a Slice Library with the following steps:
-
-1. Use Slice Machine to model your Slices and create their React components.
-2. Push the project to GitHub.
-3. Deploy the Next.js app and update the `sliceCanvasURL` entry in `slicelibrary.json`.
-
-When you are ready to share the library with others, submit it the Slice Library Showcase.
-
-> 📮 [**Submit your Slice Library to the Showcase**][submit-showcase]<br/>
-> The easiest way to show off your Slice Library.
+The quickest way to build a Slice Library for Slice Machine websites.
 
 ## 👉 Getting started
 
