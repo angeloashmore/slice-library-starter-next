@@ -20,7 +20,6 @@ Start a new Slice Library project using this starter with the following commands
    npx degit@latest \
      prismicio-community/slice-library-starter-next \
      your-library-name
-   git init
    ```
 
 1. **Install dependencies**
